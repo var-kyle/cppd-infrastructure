@@ -17,7 +17,7 @@ Note that you will create a few `terraform.tfvars` files in the following steps 
 
 ## 1. Bootstrap - Configure remote state storage
 
-There are a few variables that can be set in a `terraform.tfvars` file (example file included) - if you don't set them, you will be prompted for them:
+There are a few variables that can be set in a `terraform.tfvars` file (example file included) - if you don't set them, you will be prompted for them :
 
 - **name**: ServiceName - will be used when creating other resource names
 - **location**: Location - ie, canadaeast, canadacentral
